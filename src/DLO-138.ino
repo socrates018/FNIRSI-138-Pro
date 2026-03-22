@@ -4,7 +4,7 @@
 // needs to be Adafruit GFX Library v1.1.4, check/change your installed version
 // otherwise you will get a black screen or compiler errors
 
-#include "src/TFTLib/Adafruit_TFTLCD_8bit_STM32.h"
+#include <Adafruit_TFTLCD_8bit_STM32.h>
 #include "global.h"
 #include "variables.h"
 
